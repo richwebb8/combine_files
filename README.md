@@ -5,3 +5,5 @@ Python utility to combine all the files in a nested folder structure into a sing
 2. Edit `target_dir` to be the path to the folder you want combined files to be outputted to
 3. Edit `ignore` to include any file extentions of files you don't want to include
 4. Run `python main.py`
+### Flatten function from:
+https://amitd.co/code/python/flatten-a-directory
